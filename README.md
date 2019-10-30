@@ -13,7 +13,6 @@ Here are some samples screenshots to see how website looks like.
 <p align="center">
         <img src="images/pam_mobile1.png" title="Header">
         <img src="images/pam_mobile2.png" title="Grid Size">
-        <img src="images/pam_mobile4.png" title="Canvas">
         <img src="images/pam_mobile5.png" title="Footer">
 </p>
 
